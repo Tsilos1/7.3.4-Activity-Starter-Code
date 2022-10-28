@@ -8,7 +8,7 @@ export default function CollectorButton() {
   
   return (
     <div>
-      <button>
+      <button style={buttonStyling}>
         Click Here!
       </button>
     </div>
